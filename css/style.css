@@ -7,23 +7,26 @@ body {
 
 h1 {
   font-size: 2em;
+  margin-bottom: 20px;
 }
 
 h2 {
   font-size: 1.75em;
+  margin-bottom: 20px;
 }
 
 h3 {
   font-size: 1.5em;
+  margin-bottom: 20px;
 }
 
 p {
   font-size: 1em;
+  margin-bottom: 20px;
 }
 
 a {
   text-decoration: none;
-  : ;
   color: #ffffff;
 }
 
@@ -72,6 +75,10 @@ li {
 
 article {
   padding-top: 100px;
+}
+
+figcaption {
+  margin-bottom: 20px;
 }
 
 .container {
